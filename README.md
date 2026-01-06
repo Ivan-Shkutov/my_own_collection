@@ -21,6 +21,12 @@
 
 Шаг 1. В виртуальном окружении создайте новый my_own_module.py файл.
 
+Перейти в директорию ansible и активировать окружение:
+
+    cd ~/projects/ansible
+    . venv/bin/activate
+    . hacking/env-setup
+
 Шаг 2. Наполните его содержимым:
 
     #!/usr/bin/python
