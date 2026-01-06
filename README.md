@@ -59,7 +59,6 @@
 
     author:
         - Your Name (@yourGitHubHandle)
-    '''
 
     EXAMPLES = r'''
     # Pass in a message
